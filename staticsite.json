@@ -1,5 +1,6 @@
 {
-    "name": "service1",
-    "path": "/"
+    "name": "devsite",
+    "path": "",
+    "mode": "spa-200"
 }
 
